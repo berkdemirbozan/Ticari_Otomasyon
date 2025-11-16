@@ -37,4 +37,6 @@ Amaç, işletmelerde ürün, stok, cari, personel, fatura ve not işlemlerinin t
 
 ---
 
+## 🚀 Fotoğraflar
+<img width="1896" height="908" alt="Image" src="https://github.com/user-attachments/assets/15db0c0b-44af-4ffb-89a0-569d089888ad" />
 
