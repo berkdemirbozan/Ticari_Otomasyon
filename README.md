@@ -47,3 +47,4 @@ Amaç, işletmelerde ürün, stok, cari, personel, fatura ve not işlemlerinin t
 <img width="506" height="815" alt="Image" src="https://github.com/user-attachments/assets/fba7fe41-6c35-4b24-bc0b-561a38a7423c" />
 <img width="1840" height="780" alt="Image" src="https://github.com/user-attachments/assets/30323ab5-2f23-4f55-9a08-25db2d0d11fa" />
 <img width="1872" height="816" alt="Image" src="https://github.com/user-attachments/assets/c86c293c-8528-47f3-a331-28ec0b9d92ee" />
+<img width="880" height="716" alt="Image" src="https://github.com/user-attachments/assets/cc51bfae-9f4f-4537-b878-115f17ee28cb" />
